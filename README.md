@@ -7,7 +7,7 @@ It features a **responsive design**, **smooth animations**, and **comprehensive 
 ---
 
 ## 🚀 Live Demo  
-🌐 **Production URL**: *Coming Soon* — Deploy using `npm run deploy`  
+🌐 **Production URL**: [*GlobalMart*](https://nexus-ai-internship-global-mart.vercel.app/) 
 
 ---
 
