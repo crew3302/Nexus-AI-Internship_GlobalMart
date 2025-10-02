@@ -1,0 +1,1 @@
+export const USD_TO_PKR_CONVERSION_RATE = 280;

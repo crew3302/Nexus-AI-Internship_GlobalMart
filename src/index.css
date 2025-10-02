@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+  
+  body {
+    @apply bg-primary-bg;
+    background-image: radial-gradient(circle at top, theme('colors.primary-dark') 0%, theme('colors.primary.bg') 50%);
+  }
+
+  /* Custom selection styles */
+  ::selection {
+    background-color: theme('colors.primary.accent');
+    color: theme('colors.primary.bg');
+  }
+
+  /* Custom Scrollbar for a modern look */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background-color: theme('colors.primary.bg');
+  }
+  ::-webkit-scrollbar-thumb {
+    background-color: theme('colors.slate.700');
+    border-radius: 4px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: theme('colors.primary.accent');
+  }
+}
