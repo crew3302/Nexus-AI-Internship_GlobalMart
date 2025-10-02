@@ -3,7 +3,6 @@
 A **modern**, **production-ready** e-commerce application built with **React**, **TypeScript**, and **Tailwind CSS**.  
 It features a **responsive design**, **smooth animations**, and **comprehensive shopping cart functionality**.  
 
-![GlobalMart Screenshot](https://www.istockphoto.com/photo/online-shopping-e-commerce-and-digital-marketing-concept-person-using-a-smartphone-gm2167250066-587320825)
 
 ---
 
